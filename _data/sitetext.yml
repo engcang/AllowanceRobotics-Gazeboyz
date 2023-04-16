@@ -39,34 +39,34 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "AllowanceRobotics 비공식 설립"
         year: "2019"
-        desc: "KAIST 연구실 선후배로 만나 용돈벌이겸 창업동아리 설립"
+        desc: "KAIST 연구실 선후배로 만나 창업동아리 설립"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Gazeboyz 지사 설립"
         year: "2021"
-        desc: "Eungchang Mason Lee가 첫 번째 외주 수주, 시뮬레이션 및 자율주행 솔루션 제작"
+        desc: "Eungchang Mason Lee가 첫 번째 외주 수주 <br> 시뮬레이션 및 자율주행/비행 솔루션 제작"
         image: assets/img/timeline/2.jpg
-        alt:
-      - title: "현재, 사업자 설립 준비 중"
+        alt: 고레나니?
+        align: right
+      - title: "현재"
         year: "2023"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "현재: 사업자 설립 준비 중"
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
-        align: right
+        #align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
     text: "Our story"
-    body: "고객이 원하는 대로 시뮬레이션을 제작하거나 자율주행, 자율비행 솔루션을 제공합니다."
+    body: "고객이 원하는 대로 시뮬레이션을 제작하거나 자율주행, 자율비행 솔루션을 제공합니다. <br> 합리적인 가격으로 진행합니다."
     section: about
 
   clients:
@@ -94,38 +94,27 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Eungchang Mason Lee"
-        role: "CEO (AllowanceRobotics-Gazeboyz 지사), Member (AllowanceRobotics)"
+        role: "CEO (Gazeboyz 지사), Member (AllowanceRobotics)"
         image: assets/img/team/mason.jpg
         social:
           - url: https://github.com/engcang
             icon: fab fa-github
-          - url: https://www.youtube.com/@Eungchang_Mason_Lee/
+          - url: https://www.youtube.com/@Eungchang_Mason_Lee
             icon: fab fa-youtube
           - url: https://www.linkedin.com/in/eungchang-lee-683281200/
             icon: fab fa-linkedin
+          - url: mailto:eungchang_mason@kaist.ac.kr
+            icon: fab fa-envelope
       - name: "Inhwan Wee"
-        role: "Weebee, CEO of AllowanceRobotics, Member (AllowanceRobotics-Gazeboyz 지사)"
+        role: "Weebee, CEO of AllowanceRobotics, Member (Gazeboyz 지사)"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://github.com/finani
             icon: fab fa-github
+          - url: https://www.youtube.com/@ChouWeeA
+            icon: fab fa-youtube
           - url: https://www.linkedin.com/in/inhwan-wee/
             icon: fab fa-linkedin-in
-
-  #contact:
-    #title: "Contact Us"
-    #text: "Please contact us via eungchang_mason@kaist.ac.kr"
-    #section: contact
-    #name: "Name*"
-    #name-validation: "Please enter your name."
-    #email: "Email*"
-    #email-validation: "Please enter your email address."
-    #phone: "Phone Number"
-    #phone-validation: "Please enter your phone number."
-    #message: "Message*"
-    #message-validation: "Please enter a message."
-    #subject: "Contact Form Submission"
-    #submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
