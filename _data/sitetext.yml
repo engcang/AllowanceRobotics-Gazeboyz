@@ -104,7 +104,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/eungchang-lee-683281200/
             icon: fab fa-linkedin
           - url: mailto:eungchang_mason@kaist.ac.kr
-            icon: fa-solid fa-envelope
+            icon: fas fa-envelope
       - name: "Inhwan Wee"
         role: "Weebee, CEO of AllowanceRobotics, Member (Gazeboyz 지사)"
         image: assets/img/team/500x500.jpg
@@ -126,7 +126,7 @@ en: &DEFAULT_EN
       - url: https://www.linkedin.com/in/eungchang-lee-683281200/
         icon: fab fa-linkedin
       - url: mailto:eungchang_mason@kaist.ac.kr
-        icon: fa-solid fa-envelope
+        icon: fas fa-envelope
 en-US:
   <<: *DEFAULT_EN
 en-CA:
