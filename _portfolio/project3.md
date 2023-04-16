@@ -1,18 +1,21 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: Palm Tree Field Exploration and Tree Identification with UAV/UGV
+subtitle: 미지의 palm tree 과수원 탐사 및 mapping 알고리즘 및 코드 제작
+# image: assets/img/portfolio/01-full.jpg
+# alt: Shirts on a hanger
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Exploration and Mapping solution
+  subtitle: Palm tree 과수원 탐사 및 tree identification (UAV, UGV)
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p7n7KhUU_5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/R6GKBVuo3qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+
+The final goal of this research project is to develop an exploration system for monitoring unknown palm tree orchard environments while avoiding collisions and figuring out appearances of trees. I developed the whole system including pointcloud data processing, path planning, and controller. A state‑of‑the‑art open‑sourced SLAM algorithm is utilized.
+**The code and implementation details are confidential for this project.**
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-
+- Date: 2021.11-2022.05
+- Client: AKA-AI Robotics
+- Category: Simulations, Solutions

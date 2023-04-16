@@ -1,18 +1,21 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: KHNP KVRC 2022 대회 제작
+subtitle: 드론 미션 수행을 위한 맵 및 동작환경 제작
+# image: assets/img/portfolio/01-full.jpg
+# alt: Shirts on a hanger
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: KVRC 2022 대회 제작
+  subtitle: 시뮬레이션, 예제 코드 등 일체 제작
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/usKW3UG9wpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+KHNP Virtual Robot Challenge aims to develop a autonomous navigation algorithm and a robust controller to complete diverse and challenging tasks including obstacle avoidance, exploration, and enduring the wind disturbances. We made Gazebo maps for the competition and coded scoring GUI. Additionally, We coded sample controllers for the quadrotor UAV.
+For more information, refer to official Github repositories: https://github.com/Woojin-Seol/KVRC2022, https://github.com/engcang/gazebo_map_for_khnp
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: 2022.09-2022.12
+- Client: KHNP (한국수력원자력)
+- Category: Simulations
 
