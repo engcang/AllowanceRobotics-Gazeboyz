@@ -7,7 +7,7 @@ subtitle: 드론 미션 수행을 위한 맵 및 동작환경 제작
 caption:
   title: KVRC 2022 대회 제작
   subtitle: 시뮬레이션, 예제 코드 등 일체 제작
-  thumbnail: assets/img/portfolio/p2.jpg
+  thumbnail: assets/img/portfolio/p2.png
 ---
   <iframe width="560" height="315" src="https://www.youtube.com/embed/usKW3UG9wpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

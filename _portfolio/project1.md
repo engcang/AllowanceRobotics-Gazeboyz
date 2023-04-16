@@ -7,7 +7,7 @@ subtitle: 사족보행 로봇 미션 수행을 위한 맵 및 동작환경 제�
 caption:
   title: KVRC 2021 대회 제작
   subtitle: 시뮬레이션, 예제 코드 등 일체 제작
-  thumbnail: assets/img/portfolio/p1.jpg
+  thumbnail: assets/img/portfolio/p1.png
 ---
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6oXx2bvzU9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
