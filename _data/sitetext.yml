@@ -114,7 +114,7 @@ en: &DEFAULT_EN
           - url: https://www.youtube.com/@ChouWeeA
             icon: fab fa-youtube
           - url: https://www.linkedin.com/in/inhwan-wee/
-            icon: fab fa-linkedin-in
+            icon: fab fa-linkedin
 
   footer:
     legal: "Privacy Policy"
@@ -123,8 +123,6 @@ en: &DEFAULT_EN
         icon: fab fa-github
       - url: https://www.youtube.com/@Eungchang_Mason_Lee/
         icon: fab fa-youtube
-      - url: https://www.linkedin.com/in/eungchang-lee-683281200/
-        icon: fab fa-linkedin
       - url: mailto:eungchang_mason@kaist.ac.kr
         icon: fas fa-envelope
 en-US:
