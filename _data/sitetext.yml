@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Gazebo-ROS 시뮬레이션, ROS기반 자율로봇 각종 솔루션을 제작합니다."
+    text: "Gazebo-ROS 시뮬레이션, ROS기반 자율주행, 자율비행 솔루션을 제작합니다."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Simulations"
+        desc: "Gazebo 기반 원하는 시뮬레이션 맵 및 환경 제작 (ROS1, ROS2)"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Simulations"
+        desc: "Unity 기반 원하는 시뮬레이션 맵 및 환경 제작 (ROS1, ROS2)"
+        icon: fab fa-unity
+      - title: "Solutions"
+        desc: "환경에 적합한 자율주행, 자율비행 솔루션 제작"
+        icon: fad fa-drone
 
   portfolio:
     title: "Portfolio"
@@ -44,7 +44,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "AllowanceRobotics 비공식 설립"
+      - title: "AllowanceRobotics 설립"
         year: "2019"
         desc: "KAIST 연구실 선후배로 만나 창업동아리 설립"
         image: assets/img/timeline/1.jpg
@@ -53,7 +53,7 @@ en: &DEFAULT_EN
         year: "2021"
         desc: "Eungchang Mason Lee가 첫 번째 외주 수주 <br> 시뮬레이션 및 자율주행/비행 솔루션 제작"
         image: assets/img/timeline/2.jpg
-        alt: 고레나니?
+        alt:
         align: right
       - title: "현재"
         year: "2023~"
@@ -66,26 +66,26 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Our story"
-    body: "고객이 원하는 대로 시뮬레이션을 제작하거나 자율주행, 자율비행 솔루션을 제공합니다. <br> 합리적인 가격으로 진행합니다."
+    body: "고객이 원하는 대로 시뮬레이션을 제작하거나 자율주행, 자율비행 솔루션을 제공합니다. <br> **합리적인 가격**으로 진행합니다."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
@@ -94,7 +94,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Eungchang Mason Lee"
-        role: "CEO (Gazeboyz 지사) <br> Member (AllowanceRobotics)"
+        role: "CEO (Gazeboyz 지사) <br> Member (AllowanceRobotics) <br> a.k.a 용산동쌍가락지"
         image: assets/img/team/mason.jpg
         social:
           - url: https://github.com/engcang
@@ -106,7 +106,7 @@ en: &DEFAULT_EN
           - url: mailto:eungchang_mason@kaist.ac.kr
             icon: fas fa-envelope
       - name: "Inhwan Wee"
-        role: "Weebee, CEO of AllowanceRobotics <br> Member (Gazeboyz 지사)"
+        role: "CEO (AllowanceRobotics) <br> Member (Gazeboyz 지사) <br> a.k.a Weebee"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://github.com/finani
