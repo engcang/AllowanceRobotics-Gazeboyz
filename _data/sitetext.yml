@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Allowance Robotics
-    text: Gazeboyz Branch
+    title: AllowanceRobotics
+    text: Gazeboyz 지사
     #button: Tell Me More
     #buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Gazebo-ROS 시뮬레이션, ROS기반 자율로봇 각종 솔루션을 제작합니다."
     section: services
     list:
       - title: "E-Commerce"
@@ -33,24 +33,24 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "외주 제작한 시뮬레이션, 솔루션 및 참여한 프로젝트 예시입니다."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
-    text: ""
+    text: "열심히 걸어가는 중..."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "AllowanceRobotics 비공식 설립"
-        year: "2019. 03"
+        year: "2019"
         desc: "KAIST 연구실 선후배로 만나 창업동아리 설립"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Gazeboyz 지사 설립"
-        year: "2021. 09"
+        year: "2021"
         desc: "Eungchang Mason Lee가 첫 번째 외주 수주 <br> 시뮬레이션 및 자율주행/비행 솔루션 제작"
         image: assets/img/timeline/2.jpg
         alt: 고레나니?
@@ -94,7 +94,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Eungchang Mason Lee"
-        role: "CEO (Gazeboyz 지사), Member (AllowanceRobotics)"
+        role: "CEO (Gazeboyz 지사) <br> Member (AllowanceRobotics)"
         image: assets/img/team/mason.jpg
         social:
           - url: https://github.com/engcang
@@ -106,7 +106,7 @@ en: &DEFAULT_EN
           - url: mailto:eungchang_mason@kaist.ac.kr
             icon: fas fa-envelope
       - name: "Inhwan Wee"
-        role: "Weebee, CEO of AllowanceRobotics, Member (Gazeboyz 지사)"
+        role: "Weebee, CEO of AllowanceRobotics <br> Member (Gazeboyz 지사)"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://github.com/finani
