@@ -26,11 +26,17 @@ en: &DEFAULT_EN
         icon: fa fa-laptop
       - title: "Simulations (Unity)"
         desc: "Unity 기반 원하는 시뮬레이션 맵 및 환경 제작 (ROS1, ROS2)"
+        icon: fab fa-unity
+      - title: "Simulations (Unity)"
+        desc: "Unity 기반 원하는 시뮬레이션 맵 및 환경 제작 (ROS1, ROS2)"
+        icon: fa fa-unity
+      - title: "Simulations (Unity)"
+        desc: "Unity 기반 원하는 시뮬레이션 맵 및 환경 제작 (ROS1, ROS2)"
         icon: fa-brands fa-unity
       - title: "Solutions"
         desc: "환경에 적합한 자율주행, 자율비행 솔루션 제작 (ROS1, ROS2)"
-        icon: fab fa-youtube
-        
+        icon: fa fa-robot
+
   portfolio:
     title: "Portfolio"
     text: "외주 제작한 시뮬레이션, 솔루션 및 참여한 프로젝트 예시입니다."
