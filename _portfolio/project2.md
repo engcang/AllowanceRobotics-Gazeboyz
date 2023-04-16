@@ -12,7 +12,7 @@ caption:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/usKW3UG9wpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 KHNP Virtual Robot Challenge aims to develop a autonomous navigation algorithm and a robust controller to complete diverse and challenging tasks including obstacle avoidance, exploration, and enduring the wind disturbances. We made Gazebo maps for the competition and coded scoring GUI. Additionally, We coded sample controllers for the quadrotor UAV.
-For more information, refer to official Github repositories: https://github.com/Woojin-Seol/KVRC2022, https://github.com/engcang/gazebo_map_for_khnp
+For more information, refer to official Github repositories: [https://github.com/Woojin-Seol/KVRC2022](https://github.com/Woojin-Seol/KVRC2022), [https://github.com/engcang/gazebo_map_for_khnp](https://github.com/engcang/gazebo_map_for_khnp)
 
 {:.list-inline}
 - Date: 2022.09-2022.12
