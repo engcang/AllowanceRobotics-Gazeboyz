@@ -21,16 +21,16 @@ en: &DEFAULT_EN
     text: "Gazebo-ROS 시뮬레이션, ROS기반 자율주행, 자율비행 솔루션을 제작합니다."
     section: services
     list:
-      - title: "Simulations"
+      - title: "Simulations (Gazebo)"
         desc: "Gazebo 기반 원하는 시뮬레이션 맵 및 환경 제작 (ROS1, ROS2)"
         icon: fa fa-laptop
-      - title: "Simulations"
+      - title: "Simulations (Unity)"
         desc: "Unity 기반 원하는 시뮬레이션 맵 및 환경 제작 (ROS1, ROS2)"
         icon: fa-brands fa-unity
       - title: "Solutions"
-        desc: "환경에 적합한 자율주행, 자율비행 솔루션 제작"
-        icon: fa-solid fa-drone
-
+        desc: "환경에 적합한 자율주행, 자율비행 솔루션 제작 (ROS1, ROS2)"
+        icon: fab fa-youtube
+        
   portfolio:
     title: "Portfolio"
     text: "외주 제작한 시뮬레이션, 솔루션 및 참여한 프로젝트 예시입니다."
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
       - title: "현재"
         year: "2023~"
         desc: "현재: 사업자 설립 준비 중"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/3.jpg
         alt:
         #align: right
     end: "Be Part <br> of Our <br> Story!"
