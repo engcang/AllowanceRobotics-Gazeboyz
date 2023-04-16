@@ -94,12 +94,12 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "호호하하"
-    subtext: Feel free to contact us for your wonderful solutions!
+    text: "하하호호 Gazeboyz 지사"
+    subtext: Feel free to contact us for your wonderful simulations and solutions!
     section: team
     people:
       - name: "Eungchang Mason Lee"
-        role: "총괄"
+        role: "CEO (AllowanceRobotics-Gazeboyz 지사), Member (AllowanceRobotics)"
         image: assets/img/team/mason.jpg
         social:
           - url: https://github.com/engcang
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/eungchang-lee-683281200/
             icon: fab fa-linkedin
       - name: "Inhwan Wee"
-        role: "Weebee, CEO of Allowance Robotics"
+        role: "Weebee, CEO of AllowanceRobotics, Member (AllowanceRobotics-Gazeboyz 지사)"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://github.com/finani
@@ -117,9 +117,9 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/inhwan-wee/
             icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact Us"
-    text: "Please contact us via eungchang_mason@kaist.ac.kr"
+  #contact:
+    #title: "Contact Us"
+    #text: "Please contact us via eungchang_mason@kaist.ac.kr"
     #section: contact
     #name: "Name*"
     #name-validation: "Please enter your name."

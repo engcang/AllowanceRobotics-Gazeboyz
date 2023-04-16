@@ -21,8 +21,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
-      section: contact
+    #- title: "Contact"
+      #section: contact
     - title: "Back to Blog!"
       url: https://engcang.github.io
 en-US:
