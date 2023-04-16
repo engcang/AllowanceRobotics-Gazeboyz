@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fab fa-unity
       - title: "Solutions"
         desc: "환경에 적합한 자율주행, 자율비행 솔루션 제작"
-        icon: fad fa-drone
+        icon: fas fa-drone
 
   portfolio:
     title: "Portfolio"
