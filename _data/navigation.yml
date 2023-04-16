@@ -23,7 +23,7 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Back to Blog"
+    - title: "Back to Blog!"
       url: https://engcang.github.io
 en-US:
   <<: *DEFAULT_EN
