@@ -115,6 +115,14 @@ en: &DEFAULT_EN
             icon: fab fa-youtube
           - url: https://www.linkedin.com/in/inhwan-wee/
             icon: fab fa-linkedin
+      - name: "Junho Choi"
+        role: "Member (Gazeboyz 지사) <br> a.k.a Macau Choi"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com/JunhoChoiURL
+            icon: fab fa-github
+          - url: mailto:cjh6685kr@kaist.ac.kr
+            icon: fas fa-envelope
 
   footer:
     legal: "Privacy Policy"
