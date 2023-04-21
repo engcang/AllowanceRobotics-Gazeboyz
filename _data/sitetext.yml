@@ -107,7 +107,7 @@ en: &DEFAULT_EN
             icon: fas fa-envelope
       - name: "Inhwan Wee"
         role: "CEO (AllowanceRobotics) <br> Member (Gazeboyz 지사) <br> a.k.a Weebee"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/weebee.jpg #assets/img/team/500x500.jpg
         social:
           - url: https://github.com/finani
             icon: fab fa-github
