@@ -117,7 +117,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin
       - name: "Junho Choi"
         role: "Member (Gazeboyz 지사) <br> a.k.a Macau Choi"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/macau.jpg
         social:
           - url: https://github.com/JunhoChoiURL
             icon: fab fa-github
