@@ -12,9 +12,9 @@ caption:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/p7n7KhUU_5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/R6GKBVuo3qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
-The final goal of this research project is to develop an exploration system for monitoring unknown palm tree orchard environments while avoiding collisions and figuring out appearances of trees. I developed the whole system including pointcloud data processing, path planning, and controller. A state‑of‑the‑art open‑sourced SLAM algorithm is utilized. <br> **The code and implementation details are confidential for this project.**
+사전 정보 없는 미지의 palm tree 과수원 환경을 모니터링하는 솔루션을 개발하였습니다. 장애물과의 충돌 회피, 미지 영역 탐사 알고리즘, 경로 추종 제어기를 개발하고, 나무를 segmentation 및 형상을 파악하는 (phenotyping) LiDAR 데이터 처리 솔루션도 제작하였습니다. GPS가 불가용한 상황을 대비해 최신 SLAM기술을 위치추정 항법으로 사용하였습니다. <br> **해당 프로젝트의 코드와 상세 구현은 기밀입니다.**
 
 {:.list-inline}
-- Date: 2021.11-2022.05
+- Work period: 2021.11-2022.05
 - Client: AKA-AI Robotics
 - Category: Simulations, Solutions
