@@ -1,21 +1,18 @@
 ---
-title: KHNP KVRC 2021 대회 제작
-subtitle: 사족보행 로봇 미션 수행을 위한 맵 및 동작환경 제작
-# image: assets/img/portfolio/01-full.jpg
-# alt: Shirts on a hanger
+title: Unity-ROS2 Multi-Robot 시뮬레이터 제작
+subtitle: 실시간 다중 로봇 시뮬레이션
 
 caption:
-  title: KVRC 2021 대회 제작
+  title: Unity-ROS2 Multi-Robot 시뮬레이터
   subtitle: 시뮬레이션, 예제 코드 등 일체 제작
-  thumbnail: assets/img/portfolio/p1.png
+  thumbnail: assets/img/portfolio/p6.png
 ---
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6oXx2bvzU9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_JFi-ThJj3M?si=EoCjBJ3vMRqRsWgD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-KHNP (한수원)의 KVRC 가상 로봇 챌린지는 장애물 회피, 매니퓰레이션 (큐브 이동), 계단 극복, 외란 극복 등 다양하고 도전적인 임무를 완수할 수 있는 사족보행로봇용 자율주행 알고리즘과 강인한 조종기를 개발하는 대회입니다. 
-<br>해당 대회를 위해 Gazebo 환경과 센서 플러그인 및 채점용 GUI를 일체 제작했습니다. 또한, 매니퓰레이터와 사족보행로봇을 위한 샘플 제어기를 설계 및 제작했습니다.
-<br>더 자세한 내용은 공식 Github repositories를 참고해주세요: [https://github.com/Woojin-Seol/KVRC2021](https://github.com/Woojin-Seol/KVRC2021), [https://github.com/engcang/gazebo_map_for_khnp](https://github.com/engcang/gazebo_map_for_khnp)
+Unity를 활용해서 고화질의 실시간 시뮬레이터를 제작했습니다. 카메라, IMU, spinning LiDAR, Livox LiDAR 등의 센서가 사용가능하며 모바일 로봇, 사족보행 로봇, 드론 등을 구현하였습니다. 제어가 가능한 30대의 다중 로봇을 실시간으로 시뮬레이션 가능하며, SLAM, navigation 등 알고리즘들을 개발 및 검증가능 합니다.
 
 {:.list-inline}
-- Work period: 2021.09-2021.12
-- Client: KHNP (한국수력원자력)
+- Work period: 2024.10 - 2025.08
+- Client: KETI (한국전자기술연구원)
 - Category: Simulations
+

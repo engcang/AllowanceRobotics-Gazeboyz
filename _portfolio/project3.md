@@ -1,20 +1,21 @@
 ---
-title: Exploration 및 Mapping 솔루션 제작
-subtitle: 미지의 palm tree 과수원 탐사 및 mapping, tree identification 알고리즘 및 코드 제작
+title: KHNP KVRC 2021 대회 제작
+subtitle: 사족보행 로봇 미션 수행을 위한 맵 및 동작환경 제작
 # image: assets/img/portfolio/01-full.jpg
 # alt: Shirts on a hanger
 
 caption:
-  title: Exploration and Mapping solution
-  subtitle: 과수원 탐사 및 tree identification (UAV, UGV)
-  thumbnail: assets/img/portfolio/p3.png
+  title: KVRC 2021 대회 제작
+  subtitle: 시뮬레이션, 예제 코드 등 일체 제작
+  thumbnail: assets/img/portfolio/p1.png
 ---
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/p7n7KhUU_5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/R6GKBVuo3qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6oXx2bvzU9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-사전 정보 없는 미지의 palm tree 과수원 환경을 모니터링하는 솔루션을 개발하였습니다. 장애물과의 충돌 회피, 미지 영역 탐사 알고리즘, 경로 추종 제어기를 개발하고, 나무를 segmentation 및 형상을 파악하는 (phenotyping) LiDAR 데이터 처리 솔루션도 제작하였습니다. GPS가 불가용한 상황을 대비해 최신 SLAM기술을 위치추정 항법으로 사용하였습니다. <br> **해당 프로젝트의 코드와 상세 구현은 기밀입니다.**
+KHNP (한수원)의 KVRC 가상 로봇 챌린지는 장애물 회피, 매니퓰레이션 (큐브 이동), 계단 극복, 외란 극복 등 다양하고 도전적인 임무를 완수할 수 있는 사족보행로봇용 자율주행 알고리즘과 강인한 조종기를 개발하는 대회입니다. 
+<br>해당 대회를 위해 Gazebo 환경과 센서 플러그인 및 채점용 GUI를 일체 제작했습니다. 또한, 매니퓰레이터와 사족보행로봇을 위한 샘플 제어기를 설계 및 제작했습니다.
+<br>더 자세한 내용은 공식 Github repositories를 참고해주세요: [https://github.com/Woojin-Seol/KVRC2021](https://github.com/Woojin-Seol/KVRC2021), [https://github.com/engcang/gazebo_map_for_khnp](https://github.com/engcang/gazebo_map_for_khnp)
 
 {:.list-inline}
-- Work period: 2021.11-2022.05
-- Client: AKA-AI Robotics
-- Category: Simulations, Solutions
+- Work period: 2021.09 - 2021.12
+- Client: KHNP (한국수력원자력)
+- Category: Simulations

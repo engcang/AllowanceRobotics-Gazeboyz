@@ -16,7 +16,7 @@ KHNP (한수원)의 KVRC 가상 로봇 챌린지 시즌2는 장애물 회피, �
 <br>더 자세한 내용은 공식 Github repositories를 참고해주세요: [https://github.com/Woojin-Seol/KVRC2022](https://github.com/Woojin-Seol/KVRC2022), [https://github.com/engcang/gazebo_map_for_khnp](https://github.com/engcang/gazebo_map_for_khnp)
 
 {:.list-inline}
-- Work period: 2022.09-2022.12
+- Work period: 2022.09 - 2022.12
 - Client: KHNP (한국수력원자력)
 - Category: Simulations
 
